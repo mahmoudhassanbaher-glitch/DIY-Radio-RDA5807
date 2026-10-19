@@ -1,3 +1,6 @@
+
+English version (README English.md)
+
 # DIY-Radio-RDA5807# Radio – FM rádio s Bluetooth prehrávaním
 
 Vlastnoručne postavené stereo rádio s FM prijímačom **RDA5807**, Bluetooth modulom **XY-BT 5.0** a zosilňovačom **TDA2030**. Zariadenie je zabudované v upravenej krabici a poháňa reproduktor s impedanciou 8 Ω. Rádio je možné tlačidlami vypnúť a prepnúť na Bluetooth prehrávanie vlastnej hudby.
