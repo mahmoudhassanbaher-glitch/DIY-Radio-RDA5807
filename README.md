@@ -1,5 +1,5 @@
 
-English version (README English.md)
+[English version](README.en.md)
 
 # DIY-Radio-RDA5807# Radio – FM rádio s Bluetooth prehrávaním
 
